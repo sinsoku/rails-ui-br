@@ -15,3 +15,5 @@ capybara-*.html
 config/*.yml
 rerun.txt
 pickle-email-*.html
+
+/Gemfile.lock
